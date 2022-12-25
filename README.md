@@ -28,7 +28,7 @@
 |---------------------------------------------------|---------------------------
 
 ## e/a endeux aspirons™
-### Building worlds out of make believe
+### Together (we) aspire to building worlds out of make believe
 
 ---
 
