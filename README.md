@@ -24,7 +24,7 @@
 |                                                   |
 | how you can support                               | [be patreonic](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |                                                   |
-| how you can become a product tester               | [access lottery](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
+| want to be the maverick to our goose?             | [access lottery](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |---------------------------------------------------|---------------------------
 
 
