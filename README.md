@@ -1,8 +1,10 @@
 <img src="https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/Logo_ejar.png">
 
+---
 # Who's got Next?
 > **Edge Augmented Recreation
 > *the next generation of interactive streaming entertainment
+---
 
 
 ![Visitor Count](https://profile-counter.glitch.m/EajR-innovativEngineeringa/count.svg)
