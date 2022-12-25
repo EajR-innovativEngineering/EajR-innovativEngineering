@@ -1,4 +1,4 @@
-![[Logo_ejar.png]]
+![[https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/Logo_ejar.png]]
 
 # Who's got Next?
 > **Edge Augmented Recreation
