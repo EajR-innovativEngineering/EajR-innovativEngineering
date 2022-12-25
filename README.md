@@ -1,5 +1,6 @@
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRVsjKF0Khp8gT8gkGikdEMWZyoHAZtb4sU9Av_qCeNeZ8iLFJD7CWAYsr2SPKB9H2wJFgz0kW7yMNY/pub?w=960&h=720">
-
+<a href="https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md" target="_blank">
+  <img align="center"   src="https://docs.google.com/drawings/d/e/2PACX-1vRVsjKF0Khp8gT8gkGikdEMWZyoHAZtb4sU9Av_qCeNeZ8iLFJD7CWAYsr2SPKB9H2wJFgz0kW7yMNY/pub?w=960&h=720"/>
+</a>
 ---
 
 # Who's got Next?
@@ -16,13 +17,15 @@
 |---------------------------------------------------|---------------------------
 | Page Description                                  | Link
 |---------------------------------------------------|---------------------------
-| about our EajR innovativEngineers                 | [about]()
+| about our EajR innovativEngineers                 | [about](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |                                                   |
-| our innovativEngineer micro-vlog                  | [micro vlog]()
+| our innovativEngineer micro-vlog                  | [micro vlog](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |                                                   |
-| how you can support                               | [be patreonic]()
+| how you can support                               | [be patreonic](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |                                                   |
-| how you can become a product tester               | [access lottery]()
+| how you can become a product tester               | [access lottery](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
+|---------------------------------------------------|---------------------------
+
 
 ---
 
