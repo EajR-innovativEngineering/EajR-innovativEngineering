@@ -1,4 +1,4 @@
-<img src="https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/Logo_ejar.png">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRVsjKF0Khp8gT8gkGikdEMWZyoHAZtb4sU9Av_qCeNeZ8iLFJD7CWAYsr2SPKB9H2wJFgz0kW7yMNY/pub?w=1440&h=1080g">
 
 ---
 # Who's got Next?
