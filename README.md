@@ -8,6 +8,8 @@
 > *the next generation of interactive streaming entertainment*
 ---
 
+### EajR innovativEngineering is a partnership dedicated to pioneering novel interactive streaming experiences for the tech enthusastic fan in all of us.
+
 
 ![Visitor Count](https://profile-counter.glitch.me/EajR-innovativEngineerin/count.svg)
 
