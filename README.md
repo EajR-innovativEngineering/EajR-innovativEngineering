@@ -22,7 +22,7 @@
 |                                                   |
 | how you can support                               | [be patreonic]()
 |                                                   |
-| how you can become a product tester               | []()
+| how you can become a product tester               | [access lottery]()
 
 ---
 
