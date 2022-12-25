@@ -27,6 +27,8 @@
 | want to be the maverick to our goose              | [access lottery](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |---------------------------------------------------|---------------------------
 
+## elle pétrissait pour faire croire ™
+### Building worlds out of make believe
 
 ---
 
