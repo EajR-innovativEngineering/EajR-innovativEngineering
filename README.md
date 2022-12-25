@@ -7,9 +7,9 @@
 ---
 
 
-![Visitor Count](https://profile-counter.glitch.m/EajR-innovativEngineeringa/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/EajR-innovativEngineerin/count.svg)
 
-=========================================================
+---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EajR-innovativEngineering)](https://github.com/EajR-innovativEngineering/github-readme-stats)
 
