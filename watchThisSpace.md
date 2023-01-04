@@ -2,7 +2,7 @@
 
 
 > 
-> *EajR has exciting new experiences in store for all tech enthusiastic fans primed to for the next generation of interactive streaming.*
+> *EajR has exciting new experiences in store for all tech enthusiastic fans primed for the next generation of interactive streaming.*
 > 
 
 ---
