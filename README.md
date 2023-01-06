@@ -22,7 +22,7 @@
 |                                                   |
 | our innovativEngineer micro-vlog                  | [micro vlog](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |                                                   |
-| how you can support                               | [be patreonic](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
+| how you can support                               | [be Patreonic](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |                                                   |
 | want to be the maverick to our goose              | [access lottery](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |---------------------------------------------------|---------------------------
