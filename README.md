@@ -13,7 +13,6 @@
 
 ### EajR innovativEngineering is a partnership dedicated to pioneering novel interactive streaming experiences for the tech enthusastic fan in all of us.
 
-|---------------------------------------------------|---------------------------
 | Directory                                         | Link
 |---------------------------------------------------|---------------------------
 |                                                   |
