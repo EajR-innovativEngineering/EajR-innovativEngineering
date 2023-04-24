@@ -13,10 +13,8 @@
 
 ### EajR innovativEngineering is a partnership dedicated to pioneering novel interactive streaming experiences for the tech enthusastic fan in all of us.
 
-|  Directory                
-|
 |---------------------------------------------------|---------------------------
-| Page Description                                  | Link
+| Directory                                         | Link
 |---------------------------------------------------|---------------------------
 |                                                   |
 | about our EajR innovativEngineers                 | [about](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
