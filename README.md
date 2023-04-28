@@ -30,7 +30,7 @@
 |---------------------------------------------------|---------------------------
 
 ## e/a endeux aspirons™
-### Together (we) aspire to building worlds out of make believe
+### Together (we) aspire to augment your world
 
 ---
 
