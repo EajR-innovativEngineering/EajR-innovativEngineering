@@ -7,9 +7,7 @@
 
 # Who's got Next?
 >
-> **Edge Augmented Recreation**
-> 
-> *the next generation of interactive streaming entertainment*
+> **Edge Augmented re-Ceation**
 >
 
 ---
