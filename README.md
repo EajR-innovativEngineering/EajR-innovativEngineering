@@ -7,7 +7,7 @@
 
 # Who's got Next?
 >
-> **Edge Augmented re-Ceation**
+> **Edge Augmented re-Creation**
 >
 
 ---
