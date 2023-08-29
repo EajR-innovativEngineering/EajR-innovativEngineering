@@ -32,7 +32,3 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/EajR-innovativEngineerin/count.svg)
-
----
-
