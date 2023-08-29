@@ -1,5 +1,5 @@
 <a href="https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md" target="_blank">
-  <img align="center"   src="https://docs.google.com/drawings/d/e/2PACX-1vRVsjKF0Khp8gT8gkGikdEMWZyoHAZtb4sU9Av_qCeNeZ8iLFJD7CWAYsr2SPKB9H2wJFgz0kW7yMNY/pub?w=960&h=720"/>
+  <img align="center"   src="Logo_ejar.png?w=960&h=720"/>
 </a>
 
 
