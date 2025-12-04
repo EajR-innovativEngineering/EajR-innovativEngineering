@@ -1,4 +1,4 @@
-<a href="https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/deployments/github-pages" target="_blank">
+<a href="https://eajr-innovativengineering.github.io/EajR-innovativEngineering/" target="_blank">
   <img align="center"   src="EajR-Logo-New.png?w=960&h=720"/>
 </a>
 
