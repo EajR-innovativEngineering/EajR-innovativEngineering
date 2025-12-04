@@ -1,4 +1,4 @@
-<img align="center" src="Support_Files/innovate-aspire-share.png?w=960&h=720"/>
+<img align="center" src="Support_files/innovate-aspire-share.png?w=960&h=720"/>
 
 # *Innovate. Aspire. Share*
 
