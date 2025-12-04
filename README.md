@@ -18,11 +18,11 @@
 | Directory                                         | Link
 |---------------------------------------------------|---------------------------
 |                                                   |
-| about our EajR innovativEngineers                 | [about](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
+| about our EajR innovativEngineers                 | [about](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/about-our-eajr-inovativEngineers.md)
 |                                                   |
-| our innovativEngineer micro-vlog                  | [micro vlog](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
+| our innovativEngineer micro-vlog                  | [micro vlog](https://www.youtube.com/channel/UCEJovu-p614uTB8AKmvbQrw)
 |                                                   |
-| how you can support                               | [be Patreonic](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
+| how you can support                               | [be Patreonic](https://patreon.com/etherWare_?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 |                                                   |
 | want to be the maverick to our goose              | [access lottery](https://github.com/EajR-innovativEngineering/EajR-innovativEngineering/blob/main/watchThisSpace.md)
 |---------------------------------------------------|---------------------------
